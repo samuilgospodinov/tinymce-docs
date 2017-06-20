@@ -50,3 +50,7 @@ You can also close the current window by calling:
 // Close the front most window (mydialog.html)
 top.tinymce.activeEditor.windowManager.close();
 ```
+
+## Add/Remove elements to the modal body
+Please add this to the documentation: What elements can be added, how, etc.
+For example I have to add 2 buttons the the modal and to remove the default OK button. How do I do that and how can I bind custom events on these buttons.
